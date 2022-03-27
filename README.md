@@ -1,6 +1,6 @@
 # Cours SES
 
-[Quelles mutations du travail et de l'emploi ?](CoursSES/Quelles mutations du travail et de l'emploi.pdf)
+[Quelles mutations du travail et de l'emploi ?](Quelles mutations du travail et de l'emploi.pdf)
 
 
 # Autre
