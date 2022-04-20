@@ -4,6 +4,8 @@
 
 [Quelles politiques économiques dans le cadre européen](Quelles politiques économiques dans le cadre européen.pdf)
 
+[Comment expliquer l'engagement politique dans les sociétés démocratiques](Comment expliquer l'engagement politique dans les sociétés démocratiques.pdf)
+
 [Quelles inégalités sont compatibles avec les différentes conceptions de la justice sociale](Quelles inégalités sont compatibles avec les différentes conceptions de la justice sociale.pdf)
 
 
@@ -12,7 +14,3 @@
 
 [Diaporama Grand oral mode d'emploi](Grand oral mode d'emploi.pdf)
 
-
-
-
-Quelles inégalités sont compatibles avec les différentes conceptions de la justice sociale
