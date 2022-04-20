@@ -14,7 +14,7 @@
 
 [Diaporama Grand oral mode d'emploi](Grand oral mode d'emploi.pdf)
 
-[Diaporama Méthode EC](Diapo Méthode EC.pdf)
+[Diaporama Méthode EC](Diapo Méthode EC.pps)
 
 [Méthode EC](Méthode EC.pdf)
 
