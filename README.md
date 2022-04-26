@@ -23,3 +23,6 @@ Quels sont les sources et les défis de la croissance économique](Quels sont le
 
 [Correction EC](Correction EC.pdf)
 
+[Methodologie Dissertation](Methodologie Dissertation Spe SES Term.pdf)
+
+[Diaporama Méthodologie dissertation](Methodologie Dissertation specialite SES Terminale.ppsx)
