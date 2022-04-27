@@ -11,7 +11,7 @@
 
 [Quels sont les sources et les défis de la croissance économique](Quels sont les sources et les défis de la croissance économique.pdf)
 
-[Quels sont les fondements du commerce international et de l'internationalisation de la production ?](Cours 1.pdf)
+[Quels sont les fondements du commerce international et de l'internationalisation de la production ?](Quels sont les fondements du commerce international et de l'internationalisation de la production.pdf)
 
 
 
