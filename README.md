@@ -23,8 +23,5 @@
 
 [Méthode EC](Méthode EC.pdf)
 
-[Correction EC](Correction EC.pdf)
-
 [Video Methodologie Dissertation](https://youtu.be/pOaeu89_rYI)
 
-[Diaporama Méthodologie dissertation](Methodologie Dissertation specialite SES Terminale.ppsx)
