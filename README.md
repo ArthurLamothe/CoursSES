@@ -9,6 +9,8 @@
 
 [Quels sont les fondements du commerce international et de l'internationalisation de la production ?](Quels sont les fondements du commerce international et de l'internationalisation de la production cours.pdf)
 
+[Video sur la compétitivité des pays](https://www.youtube.com/watch?v=FYon1O-z-Ss)
+
 [Comment est structurée la société française actuelle](Comment est structurée la société française actuelle.pdf)
 
 
